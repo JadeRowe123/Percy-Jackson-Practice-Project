@@ -1,0 +1,141 @@
+body{
+font-family: 'Architects Daughter', cursive;
+background-color: black;
+background-size: 100%;
+text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+    text-decoration: underline;
+}
+
+img{
+    width: 200px;
+    height: 300px;
+    background: aqua;
+}
+
+#characters{
+    font-size: 20px;
+    color: black;
+    background: aqua;
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    margin-left: 500px;
+    border: 10px solid white;
+}
+
+#books{
+    font-size: 20px;
+    color: black;
+    background-color: aqua;
+    width: 500px;
+    height: 400px;
+    margin-left: 500px;
+    border-radius: 20px;
+    border: 10px solid white;
+}
+
+#covers{
+    font-size: 20px;
+    color: black;
+    background-color: aqua;
+    width: 1250px;
+    margin-left: 150px;
+    border-radius: 20px;
+    border: 10px solid white;
+}
+
+
+#graphicnovels{
+    font-size: 20px;
+    color: black;
+    background-color: aqua;
+    width: 1250px;
+    margin-left: 150px;
+    border-radius: 20px;
+    border: 10px solid white;
+}
+
+#characterfanart{
+    font-size: 20px;
+    color: black;
+    background-color: aqua;
+    width: 1000px;
+    height: 750px;
+    margin-left: 250px;
+    border-radius: 20px;
+    border: 10px solid white;
+}
+
+#Percy{
+width: 240px;
+border: 6px solid black;
+}
+
+#Annabeth{
+    width: 180px;
+    height: 300px;  
+    border: 6px solid black;
+}
+
+#Grover{
+    width: 200px;
+    height: 300px;  
+    border: 6px solid black;
+}
+
+#Thalia{
+    width: 180px;
+    height: 300px;  
+    border: 6px solid black;
+}
+
+#Luke{
+    width: 180px;
+    height: 300px;  
+    border: 6px solid black;
+}
+
+#Nico{
+    width: 200px;
+    height: 300px;  
+    border: 6px solid black;
+}
+
+#Rachel{
+    width: 200px;
+    height: 300px;  
+    border: 6px solid black;
+}
+
+#Clarisse{
+    width: 180px;
+    height: 300px;  
+    border: 6px solid black;
+}
+
+#Final{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: aqua;
+    width: 1050px;
+    height: 350px;
+    margin-left: 250px;
+    border-radius: 20px;
+    border: 10px solid white;  
+}
+
+#Best{
+    width: 1000px;
+    height: 300px;
+    margin-bottom: 50px;
+}
+
+#Poseidon{
+    width: 700px;
+    height: 1000px;
+}
